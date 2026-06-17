@@ -1,0 +1,2 @@
+AgriSmart is an AI-powered web application designed to support farmers with smart agricultural solutions. The platform analyzes farming data such as soil conditions, weather information, and crop requirements to provide useful recommendations. It helps farmers choose suitable crops, improve productivity, and make informed decisions through an easy-to-use interface.
+By combining Artificial Intelligence with modern web technologies, AgriSmart aims to promote efficient, sustainable, and technology-driven farming practices.
